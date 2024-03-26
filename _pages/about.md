@@ -22,7 +22,7 @@ redirect_from:
 </p>
 <p>
   <!-- My research interests is the combination of <strong>Software Engineering</strong>, <strong>Program Analysis</strong> and <strong>Software Testing</strong>. -->
-  My research interest align in investigating novel methods merging <strong>Software Engineering</strong>, <strong>Program Analysis</strong>, <strong>Software Accessibility</strong>,and <strong>Software Testing</strong> for robust, secure software development. Bridging theory with practice through empirical studies and tool development to enhance software reliability and efficiency.
+  My research interests align in investigating novel methods merging <strong>Software Engineering</strong>, <strong>Program Analysis</strong>, <strong>Software Accessibility</strong>, and <strong>Software Testing</strong> for robust, secure software development. Bridging theory with practice through empirical studies and tool development to enhance software reliability and efficiency.
 </p>
 
 
@@ -30,7 +30,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉 Our Extened Abtract Poster accepted by ICSE 2024
+- *2024.01*: &nbsp;🎉 Our Extended Abstract Poster accepted by ICSE 2024
 - *2023.12*: &nbsp; Participated as Student Volunteer in ESEC/FSE 2023 
 - *2023.10*: &nbsp; Presented our paper in ICSME 2023
 - *2023.10*: &nbsp; Participated in ICSME'23, SCAM'23
@@ -55,7 +55,7 @@ redirect_from:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2022.03* Ph.D. Fellowship from **Univeristy of Southern California**. 
+- *2022.03* Ph.D. Fellowship from **University of Southern California**. 
 - *2015.11* Undergraduate Merit Scholarship from **University of Dhaka**. 
 
 # 📖 Educations
