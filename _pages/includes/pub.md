@@ -13,7 +13,8 @@
 </div>
 </div> -->
 
-- ``ICSE-C 2024`` [xNose: A Test Smell Detector for C#](https://github.com), Partha Protim Paul, Md Tonoy Akanda, Mohammed Raihan Ullah, Dipto Mondal, Nazia Sultana Chowdhury, **Fazle M Tawsif** et al.
+- ``FSE 2024`` [Mobile Bug Report Reproduction via Global Search on the App UI Model](https://doi.org/10.1145/3660824), Zhaoxu Zhang, **Fazle Mohammed Tawsif**, Komei Ryu, Tingting Yu, William GJ Halfond et al.
+- ``ICSE-Companion 2024`` [xNose: A Test Smell Detector for C#](https://doi.org/10.1145/3639478.3643116), Partha Protim Paul, Md Tonoy Akanda, Mohammed Raihan Ullah, Dipto Mondal, Nazia Sultana Chowdhury, **Fazle M Tawsif** et al.
 - ``ICSME 2023``  [ScaleFix: An Automated Repair of UI Scaling Accessibility Issues in Android Applications](https://doi.ieeecomputersociety.org/10.1109/ICSME58846.2023.00025), Ali S. Alotaibi, Paul T. Chiou, **Fazle M Tawsif**, William G.J. Halfond et al.
 - ``SEKE 2022`` [Impact of Combining Syntactic and Semantic Similar- ities on Patch Prioritization while using the Insertion Mutation Operators](https://doi.org/10.18293/SEKE2022-047), MR Ullah, NS Chowdhury, **FM Tawsif** et al.
 - ``JCS 2020``  [A Machine Learning Approach to Predict Movie Revenue Based on Pre-Released Movie Metadata](https://doi.org/10.3844/jcssp.2020.749.767), Mahmud, Q. I., **Tawsif, F. M.**, Shuchi, N. Z., Mohaimen, A., Tasnim, A. et al.
