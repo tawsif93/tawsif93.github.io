@@ -22,5 +22,5 @@
 #### Journal Paper
 
 
-- ``FSE 2024`` [Mobile Bug Report Reproduction via Global Search on the App UI Model](https://doi.org/10.1145/3660824), Zhaoxu Zhang, **Fazle Mohammed Tawsif**, Komei Ryu, Tingting Yu, William GJ Halfond et al.
+- ``PACMSE-FSE 2024`` [Mobile Bug Report Reproduction via Global Search on the App UI Model](https://doi.org/10.1145/3660824), Zhaoxu Zhang, **Fazle Mohammed Tawsif**, Komei Ryu, Tingting Yu, William GJ Halfond et al.
 - ``JCS 2020``  [A Machine Learning Approach to Predict Movie Revenue Based on Pre-Released Movie Metadata](https://doi.org/10.3844/jcssp.2020.749.767), Mahmud, Q. I., **Tawsif, F. M.**, Shuchi, N. Z., Mohaimen, A., Tasnim, A. et al.
