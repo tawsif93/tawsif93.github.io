@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fazle Mohammed Tawsif's Homepage"
+title                    : "Fazle Mohammed Tawsif"
 description              : "Ph.D Student @USC. Focusing on static analysis on android apps and bug reproduction."
 repository               : "tawsif93/tawsif93.github.io"
 google_scholar_stats_use_cdn : true
