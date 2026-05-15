@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p>
-  I am Ph.D. student in the <a target="_blank" rel="noopener" href="https://www.cs.usc.edu">Thomas Lord Department of Computer Science</a>,<a target="_blank" rel="noopener" href="http://usc.edu">University of Southern California (USC)</a>, supervised by Prof. <a href="https://viterbi-web.usc.edu/~halfond/index.html" target="_blank">William G.J. Halfond</a>. I received my undergraduate degree in B.Sc. in Software Engineering degree at <a target="_blank" rel="noopener" href="https://www.du.ac.bd">University of Dhaka</a> in 2017 supervised by Prof. <a target="_blank" rel="noopener" href="https://dsse.github.io/members/"> Kazi Muheymin-Us-Sakib</a>.
+  I am a Ph.D. candidate in the <a target="_blank" rel="noopener" href="https://www.cs.usc.edu">Thomas Lord Department of Computer Science</a>,<a target="_blank" rel="noopener" href="http://usc.edu">University of Southern California (USC)</a>, supervised by Prof. <a href="https://viterbi-web.usc.edu/~halfond/index.html" target="_blank">William G.J. Halfond</a>. I received my undergraduate degree in B.Sc. in Software Engineering degree at <a target="_blank" rel="noopener" href="https://www.du.ac.bd">University of Dhaka</a> in 2017 supervised by Prof. <a target="_blank" rel="noopener" href="https://dsse.github.io/members/"> Kazi Muheymin-Us-Sakib</a>.
 </p>
 <p>
   <!-- My research interests is the combination of <strong>Software Engineering</strong>, <strong>Program Analysis</strong> and <strong>Software Testing</strong>. -->
@@ -35,7 +35,7 @@ redirect_from:
 - *2023.10*: &nbsp; Presented our paper in ICSME 2023
 - *2023.10*: &nbsp; Participated in ICSME'23, SCAM'23
 - *2023.06*: &nbsp;🎉🎉 Our paper accepted by ICSME 2023. 
-- *2022.08*: &nbsp; Started my Ph.D. at USC. 
+- *2022.08*: &nbsp; Started Ph.D. at USC. 
 - *2022.04*: &nbsp;🎉 Our paper accepted by SEKE 2022. 
 
 # 📝 Publications 
@@ -63,6 +63,7 @@ redirect_from:
 
 # 📖 Educations
 - *2022.08 - (present)*, Ph.D. in Computer Science, University of Southern California, Los Angeles, California, USA. 
+- *2022.08 - 2026.05*, M.S. in Computer Science, University of Southern California, Los Angeles, California, USA. 
 - *2014.01 - 2017.12*, Bachelor of Science in Software Engineering, University of Dhaka, Dhaka, Bangladesh. 
 
 <!-- # 💬 Invited Talks

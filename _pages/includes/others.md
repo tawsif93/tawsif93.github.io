@@ -1,5 +1,6 @@
 # 📖 Educations
 - *2022.08 - (present)*, Ph.D. in Computer Science, University of Southern California, Los Angeles, California, USA. 
+- *2022.08 - 2026.05*, M.S. in Computer Science, University of Southern California, Los Angeles, California, USA. 
 - *2014.01 - 2017.12*, Bachelor of Science in Software Engineering, University of Dhaka, Dhaka, Bangladesh. 
 
 <!-- # 💬 Invited Talks

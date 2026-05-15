@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fazle Mohammed Tawsif"
-description              : "Ph.D Student @USC. Focusing on static analysis on android apps and bug reproduction."
+description              : "Ph.D Candidate @USC. Focusing on static analysis on android apps and bug reproduction."
 repository               : "tawsif93/tawsif93.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Fazle Mohammed Tawsif"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.png"
   bio              : "University of Southern California"
   location         : "Los Angeles, California, USA"
   employer         :
